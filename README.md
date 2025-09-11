@@ -27,9 +27,6 @@ In our experiments, we employed two benchmark datasets featuring **RGB images** 
 - [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)  
 - [Eyecandies](https://eyecan-ai.github.io/eyecandies/)  
 
-You can preprocess both datasets using the provided scripts in the `processing/` directory.
-
-
 ## Training
 
 To train MAFR, refer to the examples provided in `mafr_training_mvtec.sh` and `mafr_training_eyecandies.sh`.
