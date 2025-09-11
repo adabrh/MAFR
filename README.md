@@ -25,7 +25,8 @@ pip install -r requirements.txt
 
 In our experiments, we employed two benchmark datasets featuring **RGB images** and **point clouds**:  
 - [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)  
-- [Eyecandies](https://eyecan-ai.github.io/eyecandies/)  
+- [Eyecandies](https://eyecan-ai.github.io/eyecandies/)
+You can preprocess both datasets using the provided scripts in the `processing/` directory.
 
 ## Training
 
