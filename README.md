@@ -1,6 +1,6 @@
 #  2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection
 
->  [Usman Ali](https://scholar.google.com.pk/citations?user=2A32xVQAAAAJ&hl=en&oi=sra), [Ali Zia](https://ali-zia.me/), [Abdul Rehman](https://scholar.google.com.pk/citations?user=A_jBBxIAAAAJ&hl=en), [Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en), [Zohaib Hassan](), [Talha Sattar](), [Jing Wang](https://scholar.google.com/citations?user=k33AbSYAAAAJ&hl=en&oi=sra), [Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
+>  [Usman Ali](https://scholar.google.com.pk/citations?user=2A32xVQAAAAJ&hl=en&oi=sra), [Ali Zia](https://ali-zia.me/), [Abdul Rehman](https://scholar.google.com/citations?user=ZTuS-yUAAAAJ&hl=en), [Umer Ramzan](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en), [Zohaib Hassan](), [Talha Sattar](), [Jing Wang](https://scholar.google.com/citations?user=k33AbSYAAAAJ&hl=en&oi=sra), [Wei Xiang](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
 
 ## Abstract
 
