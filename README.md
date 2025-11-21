@@ -12,7 +12,7 @@ Industrial anomaly detection (IAD) increasingly benefits from integrating 2D and
 
 - **Operating System**: Ubuntu 22.04  
 - **Python**: 3.8  
-- **PyTorch**: 1.13 (CUDA enabled, tested on NVIDIA RTX 4080 GPU)  
+- **PyTorch**: 1.13  
 
 All required Python dependencies are listed in the `requirements.txt` file.  
 To install them, run:
